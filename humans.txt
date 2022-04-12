@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	Richard Stewart		richard.stewart@spectrio.com
 
 # THANKS
 
